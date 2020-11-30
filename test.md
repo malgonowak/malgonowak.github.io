@@ -1,10 +1,9 @@
-**strong text**Welcome to StackEdit!
+**strong text**Hello ! Nice to see you!
 ===================
 
 [google](https://google.pl)
 ![moje zdjecie](./ty.jpeg)
 
-![moje zdjecie](./nazwa-zdjecia.jpeg)
 
 1. [Indonesia](https://www.behance.net/gallery/97710823/Travel-Web-Design?tracking_source=search_projects_recommended%7Ctravel)
 
