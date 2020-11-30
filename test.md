@@ -1,4 +1,4 @@
-**strong text**Hello ! Nice to see you!
+**Hello ! Nice to see you!**
 ===================
 
 [google](https://google.pl)
